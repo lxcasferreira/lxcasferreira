@@ -22,7 +22,7 @@ Atuação em projetos voltados para controle de processos e indicadores de desem
 ---
 
 ## 📊 Projetos em destaque
-- **Sistema de Controle Operacional (G2L)**  
+- **Sistema de Controle Operacional**  
   Aplicação voltada para registro, análise e acompanhamento de indicadores.
 
 - **Sistema de Absenteísmo**  
