@@ -10,6 +10,7 @@ Atuação em projetos voltados para controle de processos e indicadores de desem
 - Criação de dashboards e visualização de indicadores
 - Projetos com foco em controle operacional e dados
 - Organização de código e estrutura para ambiente corporativo
+- Cibersegurança (Reconhecido na BugCrowd Hall da Fama NASA)
 
 ---
 
