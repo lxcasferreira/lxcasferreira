@@ -40,4 +40,3 @@ Brazil
 
 ## 📫 Contato
 - LinkedIn: *https://www.linkedin.com/in/4lucas/*
--
