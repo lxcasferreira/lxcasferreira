@@ -1,16 +1,42 @@
-## Hi there 👋
+# Lucas Ferreira
 
-<!--
-**lxcasferreira/lxcasferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação com foco em sistemas web e análise de dados operacionais.  
+Atuação em projetos voltados para controle de processos e indicadores de desempenho.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Sobre
+- Desenvolvimento de sistemas web voltados para uso real
+- Criação de dashboards e visualização de indicadores
+- Projetos com foco em controle operacional e dados
+- Organização de código e estrutura para ambiente corporativo
+
+---
+
+## 🛠️ Tecnologias
+- JavaScript
+- HTML & CSS
+- Dashboards e visualização de dados
+- Estruturação de sistemas web
+
+---
+
+## 📊 Projetos em destaque
+- **Sistema de Controle Operacional (G2L)**  
+  Aplicação voltada para registro, análise e acompanhamento de indicadores.
+
+- **Sistema de Absenteísmo**  
+  Controle de faltas, horas perdidas e visualização de dados operacionais.
+
+*(Os repositórios fixados no perfil representam os projetos principais.)*
+
+---
+
+## 📍 Localização
+Brazil
+
+---
+
+## 📫 Contato
+- LinkedIn: *https://www.linkedin.com/in/4lucas/*
+-
